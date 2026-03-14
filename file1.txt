@@ -1,7 +1,1 @@
-first line
-<<<<<<< HEAD
-third line
-=======
-second line
->>>>>>> feature1
-fourth line
+this is the new branch
